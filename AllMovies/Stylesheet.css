@@ -1,0 +1,14 @@
+body{
+    background-color:black;
+}
+p{
+    font-stretch: wider;
+    font-size: 45px;
+    color:crimson;
+}
+p:hover{
+        color:white;
+       }
+.img{
+    float: right;
+}

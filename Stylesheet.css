@@ -1,0 +1,60 @@
+body{
+    background-color:darkslategray;
+}
+header{
+    background-color:coral;
+    height: 100px;
+    border-radius: 20px;
+}
+nav{
+    
+    float: right;
+}
+.logo{
+    float: left;
+    margin: left 50px;
+    height: 100px;
+    width: 80px;
+}
+button{
+       float:right;
+       height: 36px;
+       width: 70px;
+    } 
+.textarea{
+          border:15px ;
+         }
+ul>li{
+    display: inline-block;
+    padding: 20px;    
+     }
+a:hover{
+        color:black;
+       }
+a{ 
+    color:crimson;
+    font-size:25px;
+}
+
+p{
+    font-style:normal;
+    font-size: 35px;
+    color:black;
+}
+p:hover{
+    color: crimson;
+    font-size:10px;
+}
+
+h2{
+         color: black;
+         font-size:20px;
+}
+h2:hover{
+       color: crimson;
+}
+ol{
+    float:right;
+    font-size: 15px;
+   } 
+
