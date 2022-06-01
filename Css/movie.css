@@ -1,0 +1,46 @@
+body{
+    background-color:black;
+}
+header{
+    background-color:coral;
+    height: 100px;
+    border-radius: 20px;
+}
+nav{
+    
+    float: left;
+}
+.logo{
+    float: left;
+    margin: left 50px;
+    height: 100px;
+    width: 80px;
+}
+a{
+    text-decoration: none;
+}
+.all{
+    margin-top: 90px;
+    display: flex;
+    justify-content: space-evenly;
+}
+p{
+    font-stretch: wider;
+    font-size: 20px;
+    color:crimson;
+}
+p:hover{
+        color:white;
+       }
+.img{
+    float: right
+}
+h2{
+    color: crimson;
+    float: inline-end;
+    font-size: 20px;
+}
+ul{
+    margin-top: 10px;
+    background-color: burlywood;
+}
